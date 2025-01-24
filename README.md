@@ -1,5 +1,3 @@
-### GitHub README
-
 # Chuck Norris Joke Generator
 
 A web application to fetch Chuck Norris jokes based on specific categories or randomly. Powered by **React**, **Redux Toolkit**, and **Tailwind CSS**, this project demonstrates state management, asynchronous data fetching, and responsive UI design.
